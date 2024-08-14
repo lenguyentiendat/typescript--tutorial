@@ -1,2 +1,2 @@
-let status = false;
-let check = true;
+let status = true
+let check = false

@@ -1,4 +1,4 @@
-const nameTS1 = 'Eric';
+const nameTS1 = 'DatLnt';
 
 console.log('length = ', nameTS1.length)
 

@@ -1,20 +1,19 @@
-// let person: object;
-
-// let mine3 = {name : 'hoi dan it'}
-
-// person = { name: 'Eric'};
-// person = 'Eric'
-
-// let pro = {
-//     name: "Eric", //string
-//     age: 25 //age
+// let person: object
+// person = {
+//     name: 'datlnt',
+//     age: 22
 // }
+// let person2: {} 
 
-let pro1: {
-    name: string,
-    age: number
-} = {
-    name: "Eric", //string
-    age: 25 //age
+// let mine3 = {name: "uit"}
+
+let pro: object = {
+    name: 'datlnt',
+    age: 22
+}
+
+let pro2: { name: string, age: number} = {
+    name: 'datlnt',
+    age: 22
 }
 

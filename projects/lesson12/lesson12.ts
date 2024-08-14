@@ -1,7 +1,4 @@
-let test: (number | string)[] = ['hoi dan it', 69];
-
-test.push('hoi dan it');
-
-test.push(25);
-
-console.log(">>> check array: ", test)
+let test: (number | string)[] = ['datlnt', 69]
+test.push('uit')
+test.push(24)
+console.log(">>check array: ", test)

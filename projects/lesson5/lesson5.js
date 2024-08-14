@@ -1,4 +1,4 @@
-const name = 'Eric';
+const name = 'DatLnt';
 
 console.log("length = ", name.length)
-console.log('upPerCasse = ', name.toUpperCase())
+console.log('upPperCase = ', name.toUpperCase());

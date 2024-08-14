@@ -1,8 +1,8 @@
-// let count = 1; //ok
+let count = 1; //ok
 
-// count = 'name'; //error ?
+count = 'name'; //error ?
 
-// console.log(">>> check count: ", count)
+console.log(">>>> check count: ", count)
 
 let names = ['Eric', 'Hỏi Dân IT', 'Typescript'] // array chỉ bao gồm string
 names.push(25) //error ?

@@ -1,5 +1,6 @@
-let name = 'eric'; //string
+// Any type
+let name = "datlnt"
 
-name = 35; //number
+name = 35
 
-name = false; //boolean
+name = false

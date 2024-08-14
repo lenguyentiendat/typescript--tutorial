@@ -1,6 +1,7 @@
-let status1: boolean = false;
-let check1: boolean = true;
-let pro: boolean = Boolean("");
+let status1: boolean = true
+let check1: boolean = false
+let pro: boolean = Boolean("")
 
-console.log(">>> check pro: ", pro)
+console.log(">>> check pro = ", pro)
 
+status1 = true

@@ -1,4 +1,7 @@
-let namev2: any = 'Eric'; // any everywhere
+//any type
 
-namev2 = true;
+let namev2: any = 'datlnt'
 
+namev2 = true
+
+namev2 = 213

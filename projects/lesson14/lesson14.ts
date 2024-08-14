@@ -1,14 +1,9 @@
 enum API_STATUS {
-    PENDDING,
-    FULFILLED = "FULFILLED asfdasfasf",
-    REJECTED = "FULFILLED" //PROMISE
+    PENDING = "PENDING", // 0
+    FULFILLED="FULLFILLED", // 1
+    REJECTED= "REJECTED" // PROMISE
 }
 
-//constant
-//java
-
-let a1 = API_STATUS.PENDDING;
-let a2 = API_STATUS.FULFILLED;
-
-//frontend : syntax
-console.log(">>> a1 = ", a1, " a2 = ", a2)
+let a = API_STATUS.PENDING
+let a2 = API_STATUS.FULFILLED
+console.log(">>>check a: " , a, ">>check a2: ", a2) // 0 1
